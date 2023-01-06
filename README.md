@@ -14,4 +14,4 @@ Documetation included on the main folder:
 
       Database source : 'EatneatDB.sql'
 
-      Design document : 'Review.docx'
+      Design document : 'ReviewProjectHK4.pdf'
