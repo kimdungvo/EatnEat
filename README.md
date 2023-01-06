@@ -12,6 +12,6 @@
 
 Documetation included on the main folder:
 
-      Database source : 'OnlineAuctionDB.sql'
+      Database source : 'EatneatDB.sql'
 
       Design document : 'Review.docx'
